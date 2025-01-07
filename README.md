@@ -2,6 +2,26 @@
 
 This is a collection of Blender projects I've worked on over the years.
 
+## Furniture
+As an exercise I modelled some of the furniture in my flat.
+
+### Table and Chairs
+The kitched table and chairs including the patterns on them.
+![Table and Chairs](https://github.com/kitblafar/Blender-Projects/blob/main/Furniture/tableandchairs.png)
+
+Chair Details      |  Table Detail         |  
+:-------------------------:|:-------------------------:|
+![Detail 1](https://github.com/kitblafar/Blender-Projects/blob/main/Furniture/tableandchairsD1.png)| ![Detail 2](https://github.com/kitblafar/Blender-Projects/blob/main/Furniture/tableandchairsD2.png) |
+
+### Desk
+My desk.
+![Desk](https://github.com/kitblafar/Blender-Projects/blob/main/Furniture/desk.png)
+
+## Plants
+### Inch Plant
+So far the only plant I have modelling is my inch-plant when it was little. It now covers the whole window!
+![Inch-Plant](https://github.com/kitblafar/Blender-Projects/blob/main/Plants/inchplant.png)
+
 ## Panel Addons
 A selection of models I made for custom panel called "GAVIM". The main part of which was a custom PCB enclosure.
 
