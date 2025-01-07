@@ -42,7 +42,7 @@ My first every human attempt. Not the best but I think he has some charm.
 
 ## Legal Distinct Evil Character
 A purple character from a familiar game, made in cursed format.
-![Waaaaaaa](https://github.com/kitblafar/Blender-Projects/tree/main/Purple_Man/Purple_Man.png)
+![Waaaaaaa](https://github.com/kitblafar/Blender-Projects/blob/main/Purple_Man/Purple_Man.png)
 
 ## Rollerskate
 An attempt to reverse engineer the skates that clip into your shoes. Turns out it's quite hard and expensive.
